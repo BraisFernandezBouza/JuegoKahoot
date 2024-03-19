@@ -1,0 +1,8 @@
+Explicación simple de inicialización:
+1.-descargar carpeta
+2.-Extraer
+3.-Iniciar la carpeta en vs
+4.-Descarga liver server(ahora te explico porqué)
+5.-Click derecho al archivo html y "open with live server", esto es porque al no usar una base de datos controlado por un host la base creada por nosotros no funciona, por ende live server crea una por defecto que leera nuestra base de datos hecha a mano.
+
+Gracias por leerlo.
